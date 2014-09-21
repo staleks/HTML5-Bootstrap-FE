@@ -7,7 +7,7 @@ HTML5 boilerplate (latest) and Twitter Bootstrap (latest)
 Based upon:
 
 - [HTML5 Boilerplate - HEAD](https://github.com/h5bp/html5-boilerplate)
-- [Twitter Bootstrap - v3.2.0](http://getbootstrap.com/)
+- [Twitter Bootstrap - v3.2.0](https://github.com/twbs/bootstrap)
 
 Included
 ========
