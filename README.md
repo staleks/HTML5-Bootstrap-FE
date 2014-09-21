@@ -14,6 +14,7 @@ Included
 
 - normalize.css (v3.0.1)
 - modernizr.js (v2.8.3)
+- jQuery (v2.1.1) - does not support Internet Explorer 6, 7, or 8
 
 
 
