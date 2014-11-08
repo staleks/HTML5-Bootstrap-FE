@@ -4,10 +4,24 @@ HTML5-Bootstrap-FE
 HTML5 boilerplate (latest) and Twitter Bootstrap (latest)
 
 
+Changelog
+=========
+
+v2.0 - November 8th 2014. 
+-------------------------
+
+- Twitter Bootstrap - included new version v3.3.0 (from previous v3.2.0)
+- normalize.css (v3.0.2)
+
+
+
+v1.0 - September 21st 2014.
+---------------------------
+
 Based upon:
 
-- [HTML5 Boilerplate - v4.3.0](https://github.com/h5bp/html5-boilerplate) - released on September 10th 2013.
-- [Twitter Bootstrap - v3.2.0](https://github.com/twbs/bootstrap) - released on June 26th 2014.
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) - v4.3.0
+- [Twitter Bootstrap](https://github.com/twbs/bootstrap) - v3.2.0
 
 Included
 ========
