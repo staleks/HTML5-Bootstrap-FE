@@ -7,6 +7,45 @@ HTML5 boilerplate (latest) and Twitter Bootstrap (latest)
 Changelog
 =========
 
+v3.1 - December 25th 2014.
+--------------------------
+
+Components list:
+
+<table>
+        <tr>
+            <td><b>Component</b></td>
+            <td><b>Version</b></td>
+        </tr>
+        <tr>
+            <td>HTML5 Boilerplate</td>
+            <td>4.3.0</td>
+        </tr>
+        <tr>
+            <td>Twitter Bootstrap</td>
+            <td>3.3.1</td>
+        </tr>
+        <tr>
+            <td>normalize.css</td>
+            <td>3.0.2</td>
+        </tr>
+        <tr>
+            <td>modernizr.js</td>
+            <td>2.8.3</td>
+        </tr>
+        <tr>
+            <td>jQuery</td>
+            <td>2.1.3 *</td>
+        </tr>
+        <tr>
+            <td>FontAwesome</td>
+            <td>4.2.0</td>
+        </tr>        
+</table>
+
+Remark - * marks component that has been changed in this version
+
+
 v3.0 - November 13th 2014.
 --------------------------
 
